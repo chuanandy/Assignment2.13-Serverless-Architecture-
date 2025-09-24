@@ -60,4 +60,4 @@ Make a comparison between Serverless Framework and Terraform as tools for IaC by
     >> Yes, in hybrids:
       - Terraform provisions the foundational infrastructure: Networking (VPC, subnets, routing), databases, clusters, IAM policies and shared services (logging, monitoring).
       - Serverless Framework handles the application layer: Deploys serverless functions, manages APIs and event triggers, and optimized workflows for developers.
-      This hybrid approach allows Terraform to manage infra complexity while Serverless Framework accelerates app deployment.
+    >> This hybrid approach allows Terraform to manage infra complexity while Serverless Framework accelerates app deployment.
